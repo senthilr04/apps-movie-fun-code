@@ -12,8 +12,8 @@ spring:
     suffix: .jsp
 
 s3:
-  accessKey: PEHX0GJZ5TBA4XJMVSBC
-  secretKey: RNkLbyBojTrxp+umW7Qr0V37MWAKCWaqHZboVL+P
+  accessKey:
+  secretKey: 
   bucketName: moviefun
 
 logging.level:
